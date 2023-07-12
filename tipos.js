@@ -35,5 +35,18 @@ console.log(novaOperacao)
 const alura = "Alura";
 console.log(alura * primeiroNumero)
 
+//booleano
+
+const primeiroNumeroB = 5;
+const segundoNumeroB = 5;
+let cadastroAtivado = true;
+
+//console.log(primeiroNumero === segundoNumero);
+
+const texto1B = "Alura";
+const texto2B = "alura";
+
+console.log(texto1 === texto2)
+
 
 
